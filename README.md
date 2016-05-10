@@ -1,3 +1,3 @@
 # RandomProject
 There's nothing here. Stop looking.
-Attampt 1
+Attempt 1
